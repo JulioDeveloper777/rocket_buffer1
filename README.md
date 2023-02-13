@@ -32,11 +32,11 @@
 5. Caracteristicas visuais do personagem.
 
 ### Permissions
-> DeleteCharacter = OnlyAdmin;
-> TransferCharacter = OnlyAdmin;
-> EditDataCharacter = OnlyAdmin;
+- DeleteCharacter = OnlyAdmin;
+- TransferCharacter = OnlyAdmin;
+- EditDataCharacter = OnlyAdmin;
 
 ### Stacks
-> Lua.
-> Eventos.
-> Formato de Desenho.
+> Lua,
+> Eventos,
+> Formato de Desenho,
