@@ -39,4 +39,4 @@
 ### Stacks
 > Lua,
 > Eventos,
-> Formato de Desenho,
+> Formato de Desenho.
