@@ -1,4 +1,4 @@
-### Simp´le Character System
+### Simple Character System
    * [Simple character system for mta:sa](#rocket_buffer1)
 
 
@@ -10,9 +10,9 @@
             
      
 ### Task list
-- [✔] Design da tela de criação de personagens.
+- [X] Design da tela de criação de personagens.
 - [X] Design da tela de seleção de personagens.
-- [✔] Sistema de criação de personagem.
+- [X] Sistema de criação de personagem.
 - [X] Sistema de seleção de slot de personagem.
 
 ### Lista ordenada
