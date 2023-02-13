@@ -1,6 +1,4 @@
 ### Simple Character System
-   * [Simple character system for mta:sa](#rocket_buffer1)
-
 
 ### Simple Route Player
 - Jogador conecta no servidor.
