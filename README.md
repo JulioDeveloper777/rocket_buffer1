@@ -1,4 +1,4 @@
-### Simple Character System :trophy:
+### :trophy: Simple Character System
 
 ### Simple Route Player
 - Jogador conecta no servidor.
