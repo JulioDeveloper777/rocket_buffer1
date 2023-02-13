@@ -2,9 +2,9 @@
 
 ### Simple Route Player
 - Jogador conecta no servidor.
-    - Jogador faz login no servidor.
-        - Jogador cria ou escolhe um personagem criado.
-            - Jogador é spawnado.
+   - Jogador faz login no servidor.
+      - Jogador cria ou escolhe um personagem criado.
+         - Jogador é spawnado.
             
      
 ### Task list
