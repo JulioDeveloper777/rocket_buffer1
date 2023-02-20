@@ -11,7 +11,7 @@
 - [X] Design da tela de criação de personagens.
 - [X] Design da tela de seleção de personagens.
 - [X] Sistema de criação de personagem.
-- [X] Sistema de seleção de slot de personagem.
+- [X] Sistema de escolha de slot de personagem.
 
 ### Lista ordenada
 1. Ao logar no servidor o jogador precisara fazer login.
